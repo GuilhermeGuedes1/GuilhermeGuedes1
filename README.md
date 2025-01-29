@@ -20,5 +20,5 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ## 📫 Contact  
-📩 **Email:**devguilhermeguedes@gmail.com  
+📩 **Email:**devguilhermeguedes@gmail.com**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/guilherme-guedes-b109041a1/
