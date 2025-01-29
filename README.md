@@ -19,8 +19,8 @@
 📌 **Coming soon:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-## 📜 My Certificates  
-📌 You can check my certificates [https://www.udemy.com/certificate/UC-4361664c-6d92-4b89-bae0-239796a51f2a/](#)  
+## 📜 My Certificates    
+📌 **[Python]https://www.udemy.com/certificate/UC-4361664c-6d92-4b89-bae0-239796a51f2a/**   
 
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGuedes1&layout=compact&theme=radical)  
