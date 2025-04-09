@@ -8,7 +8,7 @@ While I still enjoy working with music in my free time, my main goal is to build
 
 ---
 
-### 🚀 Technologies I'm Learning:
+### 🚀 Technologies I'm Working With:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
@@ -17,32 +17,33 @@ While I still enjoy working with music in my free time, my main goal is to build
 
 ---
 
-### 📚 Currently Learning:
-- ✅ **HTML & CSS** – completed full course (by Gustavo Guanabara)
-- 🔄 **JavaScript** – currently studying at SENAI (São Paulo - Vila Mariana)
-- 🌱 **React.js** – just getting started with the library
-- 📱 Focusing on **responsive design**, **CSS Grid**, **Flexbox**, and **clean code**
+### 📚 Currently:
+- ✅ **Completed HTML & CSS course** (Gustavo Guanabara)
+- ✅ **Finished JavaScript course** (SENAI - March 2025)
+- 💪 Practicing JavaScript through hands-on projects
+- 🌱 Getting started with **React.js**
+- 📱 Improving skills in **responsive design**, **CSS Grid**, **Flexbox**, and writing **clean, modern code**
 
 ---
 
 ### 🎯 Goals:
-- Build real-world projects and keep improving my portfolio
-- Dive into back-end development soon (Node.js, TypeScript, etc.)
+- Build real-world projects and grow my portfolio
+- Start learning back-end soon (Node.js, TypeScript, etc.)
 - Land my **first opportunity as a Junior Developer**
-- Keep growing and contributing to the dev community
+- Stay consistent, keep growing, and connect with the dev community
 
 ---
 
 ### 🌐 Portfolio:
 🖥️ Check out my projects and progress:  
-[**Click here to visit my portfolio**]https://guilhermeguedes1.github.io/devPortfolio/
+[**Click here to visit my portfolio**](https://guilhermeguedes1.github.io/devPortfolio/)
 
 ---
 
 ### 🤝 Let's connect!
 
-Feel free to reach out on LinkedIn or get in touch to collaborate on tech projects!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)]https://www.linkedin.com/in/guilherme-guedes-b109041a1/
+Feel free to reach out on LinkedIn or hit me up to collaborate on tech projects!  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/guilherme-guedes-b109041a1/)
 
 ---
 
