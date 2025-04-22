@@ -17,6 +17,12 @@ While I still enjoy working with music in my free time, my main goal is to build
 
 ---
 
+### 📊 Languages Most Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeguedes1&layout=compact&langs_count=6&theme=tokyonight)
+
+---
+
 ### 📚 Currently:
 - ✅ **Completed HTML & CSS course** (Gustavo Guanabara)
 - ✅ **Finished JavaScript course** (SENAI - March 2025)
