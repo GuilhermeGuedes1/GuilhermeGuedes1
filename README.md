@@ -15,6 +15,7 @@ While I still enjoy working with music in my free time, my main goal is to build
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 
 ---
@@ -30,7 +31,7 @@ While I still enjoy working with music in my free time, my main goal is to build
 - ✅ **Finished JavaScript course** (SENAI - March 2025)  
 - 💪 Practicing JavaScript/React through hands-on projects  
 - ✅ **React.js**  
-- 🌱 **Learning Node.js**  
+- 🌱 **Learning Node.js & MongoDB**  
 - 🌱 **Learning Tailwind CSS**  
 - 📱 Improving skills in **responsive design**, **CSS Grid**, **Flexbox**, and writing **clean, modern code**
 
