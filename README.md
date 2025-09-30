@@ -26,8 +26,9 @@ While I still enjoy working with music in my free time, my main goal is to build
 ### 📚 Currently:
 - ✅ **Completed HTML & CSS course** (Gustavo Guanabara)
 - ✅ **Finished JavaScript course** (SENAI - March 2025)
-- 💪 Practicing JavaScript through hands-on projects
-- 🌱 Getting started with **React.js**
+- 💪 Practicing JavaScript/React through hands-on projects
+- ✅ **React.js**
+- 🌱 Getting started with **node.js**
 - 📱 Improving skills in **responsive design**, **CSS Grid**, **Flexbox**, and writing **clean, modern code**
 
 ---
@@ -42,7 +43,7 @@ While I still enjoy working with music in my free time, my main goal is to build
 
 ### 🌐 Portfolio:
 🖥️ Check out my projects and progress:  
-[**Click here to visit my portfolio**](https://guilhermeguedes1.github.io/devPortfolio/)
+[**Click here to visit my portfolio**](https://guilhermeguedes-rioy.vercel.app/)
 
 ---
 
